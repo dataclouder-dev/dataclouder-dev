@@ -64,8 +64,13 @@ We love contributions! If you're interested in improving our templates or adding
 
 ### 💫 "Transforming the future of tech, one tutorial at a time"
 
-[![GitHub Followers](https://img.shields.io/github/followers/dataclouder?style=social)](https://github.com/dataclouder)
-[![GitHub Stars](https://img.shields.io/github/stars/dataclouder?style=social)](https://github.com/dataclouder)
+i don't have followers so you can be the first
+[![GitHub Followers](https://img.shields.io/github/followers/dataclouder-dev?style=social)](https://github.com/dataclouder-dev)
+[![GitHub Stars](https://img.shields.io/github/stars/dataclouder-dev?style=social)](https://github.com/dataclouder-dev)
+
+Also in my main account 
+[![GitHub Followers](https://img.shields.io/github/followers/adamofig?style=social)](https://github.com/adamofig)
+[![GitHub Stars](https://img.shields.io/github/stars/adamofig?style=social)](https://github.com/adamofig)
 
 </div>
 
